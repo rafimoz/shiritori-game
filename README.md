@@ -43,8 +43,7 @@ npm run build
 
 ## Deployment
 
-The game is deployed at: [Insert your deployment URL here]
-
+The game is deployed at: https://shiritori-game-beryl.vercel.app/
 ## Assessment Details
 
 This project was created as part of the Nyntax MERN Assessment 2025.
